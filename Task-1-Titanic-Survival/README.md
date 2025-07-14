@@ -17,6 +17,7 @@ I developed a machine learning model to predict whether a passenger survived the
 ---
 
 ## 💻 Tech Stack
+
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
