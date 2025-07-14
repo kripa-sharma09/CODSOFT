@@ -51,9 +51,9 @@ Using regression techniques, we built models that analyze historical data and pr
 
 | Visualization                              | Description                       |
 |--------------------------------------------|-----------------------------------|
-|![](screenshots/Model_Results.png )       | Comparison of model performances  |
-|![](screenshots/Actual_vs_Predicted.png ) | Shows predicted ratings vs actual |
-|![](screenshots/Residual_plot.png )       | Error analysis of the model       |
+|![](screenshots/Model_Results.png )         | Comparison of model performances  |
+|![](screenshots/Actual_vs_Predicted.png )   | Shows predicted ratings vs actual |
+|![](screenshots/Residual_plot.png )         | Error analysis of the model       |
 
 ---
 
