@@ -43,8 +43,8 @@ It is not included in this repo.
 
 ## 🖼 Screenshots
 
-|           Visual                   |                Description                  |
-|------------------------------------|---------------------------------------------|
+|           Visual                       |                Description                  |
+|----------------------------------------|---------------------------------------------|
 | ![](screenshots.png/viz1.png)          | Pie chart & Countplot – Fraud vs Genuine    |
 | ![](screenshots.png/smote_compare.png) | Before/After SMOTE Class Distribution       |
 | ![](screenshots.png/model_eval1.png)   | Confusion Matrices                          |
