@@ -1,6 +1,6 @@
 # 💻 CODSOFT Data Science Internship — Project Repository  
 
-Welcome to my collection of Data Science Internship projects completed under *CodSoft's Data Science Internship Program (July 2025)*.  
+👩🏼‍💼Welcome to my collection of Data Science Internship projects completed under *CodSoft's Data Science Internship Program (July 2025)*.  
 This repository contains structured folders for each project, along with detailed notebooks, visualizations, and reports.  
 
 ---
@@ -9,7 +9,7 @@ This repository contains structured folders for each project, along with detaile
 - Analyzed Titanic dataset to predict passenger survival using classification models.  
 - Techniques used: Data Cleaning, Visualization, Model Building, Evaluation Metrics.  
 
-📂 Folder: Task-1-Titanic-Survival  
+📂 Folder: codsoft_task1
 
 ---
 
@@ -17,7 +17,7 @@ This repository contains structured folders for each project, along with detaile
 - Built models to detect fraudulent transactions using classification techniques.  
 - Addressed class imbalance with SMOTE and evaluated models with precision, recall, and F1-Score.  
 
-📂 Folder: Task-2-CreditCard-Fraud  
+📂 Folder: codsoft_task2
 
 ---
 
@@ -25,7 +25,7 @@ This repository contains structured folders for each project, along with detaile
 - Developed regression models to predict IMDb movie ratings based on multiple factors.  
 - Compared Linear Regression and Random Forest with detailed evaluation.  
 
-📂 Folder: Task-3-Movie-Rating-Prediction  
+📂 Folder: codsoft_task3
 
 ---
 

@@ -75,6 +75,6 @@ Data Science Intern @ CodSoft
 
 ## 🔗 Project Repository
 
-👉 [Click here to view on GitHub](https://github.com/kripa-sharma09/CODSOFT/tree/main/Task-2-CreditCard-Fraud)
+👉 [Click here to view on GitHub](https://github.com/kripa-sharma09/CODSOFT/tree/main/codsoft_task2)
 
 > ✅ Project submitted as part of Task 2 in CodSoft’s Data Science Internship program.
